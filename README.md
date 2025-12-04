@@ -33,10 +33,10 @@
 ### 1. 下载脚本
 
 ```bash
-wget https://your-domain.com/install_meshcentral.sh
-chmod +x install_meshcentral.sh
+wget https://raw.githubusercontent.com/xx2468171796/easymeshcentral/blob/main/easymeshcentral.sh
+chmod +x easymeshcentral.sh
+./easymeshcentral.sh
 ```
-
 ### 2. 运行安装
 
 ```bash
