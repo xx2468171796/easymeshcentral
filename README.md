@@ -33,7 +33,7 @@
 ### 1. 下载脚本
 
 ```bash
-wget https://raw.githubusercontent.com/xx2468171796/easymeshcentral/blob/main/easymeshcentral.sh
+wget https://raw.githubusercontent.com/xx2468171796/easymeshcentral/main/easymeshcentral.sh
 chmod +x easymeshcentral.sh
 ./easymeshcentral.sh
 ```
