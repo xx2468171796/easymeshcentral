@@ -1,8 +1,8 @@
-# MeshCentral 企业级一键部署脚本
+# MeshCentral 企业级一键部署脚本Docker
 
 ## 📋 脚本介绍
 
-这是一个专为 Debian/ubuntu 设计的 MeshCentral 企业级一键部署脚本，提供完整的远程控制服务器解决方案。
+这是一个专为 Debian/ubuntu 设计的 MeshCentral 企业级一键Docker部署脚本，提供完整的远程控制服务器解决方案。
 
 ### ✨ 主要功能
 
